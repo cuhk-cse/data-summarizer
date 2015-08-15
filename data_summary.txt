@@ -1,0 +1,56 @@
+data/
+|--.DS_Store(12.00K)
+|--.git(0.03K)
+|--.gitignore(1.50K)
+|--data(17files)(176.95M)/
+|  |--.DS_Store(6.00K)
+|  |--MonoDevelop(8files)(112.96M)/
+|  |  |--MonoDevelop_AllSource.txt(77.04M)
+|  |  |--MonoDevelop_APICall.arff(4.62M)
+|  |  |--MonoDevelop_APICall.txt(12.79M)
+|  |  |--MonoDevelop_APICall_Meta.txt(13.73M)
+|  |  |--MonoDevelop_CatchBlock.arff(1.31M)
+|  |  |--MonoDevelop_CatchBlock.txt(2.36M)
+|  |  |--MonoDevelop_CatchBlock_Meta.txt(1.12M)
+|  |  |--MonoDevelop_Config.txt(0.13K)
+|  |--SharpDevelop(8files)(63.98M)/
+|  |  |--SharpDevelop_AllSource.txt(43.83M)
+|  |  |--SharpDevelop_APICall.arff(2.75M)
+|  |  |--SharpDevelop_APICall.txt(8.49M)
+|  |  |--SharpDevelop_APICall_Meta.txt(7.05M)
+|  |  |--SharpDevelop_CatchBlock.arff(480.04K)
+|  |  |--SharpDevelop_CatchBlock.txt(0.98M)
+|  |  |--SharpDevelop_CatchBlock_Meta.txt(423.08K)
+|  |  |--SharpDevelop_Config.txt(0.39K)
+|--README.md(2.09K)
+|--user_study(23files)(2.53M)/
+|  |--code_snippets(21files)(978.97K)/
+|  |  |--exception_snippets(10files)(656.25K)/
+|  |  |  |--logged(5files)(264.36K)/
+|  |  |  |  |--11.jpg(103.44K)
+|  |  |  |  |--12.jpg(27.48K)
+|  |  |  |  |--13.jpg(44.34K)
+|  |  |  |  |--14.jpg(52.88K)
+|  |  |  |  |--15.jpg(36.21K)
+|  |  |  |--unlogged(5files)(391.89K)/
+|  |  |  |  |--01.jpg(91.00K)
+|  |  |  |  |--02.jpg(98.57K)
+|  |  |  |  |--03.jpg(85.66K)
+|  |  |  |  |--04.jpg(60.55K)
+|  |  |  |  |--05.jpg(56.12K)
+|  |  |--readme.txt(0.77K)
+|  |  |--return_value_check_snippets(10files)(321.96K)/
+|  |  |  |--logged(5files)(171.99K)/
+|  |  |  |  |--11.jpg(31.13K)
+|  |  |  |  |--12.jpg(14.05K)
+|  |  |  |  |--13.jpg(13.81K)
+|  |  |  |  |--14.jpg(86.28K)
+|  |  |  |  |--15.jpg(26.71K)
+|  |  |  |--unlogged(5files)(149.97K)/
+|  |  |  |  |--01.jpg(32.77K)
+|  |  |  |  |--02.jpg(55.39K)
+|  |  |  |  |--03.jpg(21.92K)
+|  |  |  |  |--04.jpg(21.27K)
+|  |  |  |  |--05.jpg(18.63K)
+|  |--code_snippets.zip(932.94K)
+|  |--questionnaire.pdf(674.94K)
