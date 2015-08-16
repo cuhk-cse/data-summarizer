@@ -1,6 +1,5 @@
 #########################################################
 # dataset_summarizer.py 
-# Author: Jamie Zhu <jimzhu@GitHub>
 # Last updated: 2015/8/15
 #########################################################
 
@@ -14,7 +13,9 @@ dataDir = 'data' # dataset folder
 
 def summarize(rootDir, level=1): 
     if level==1: 
-        print_summary(fid, rootDir + '/')  
+        (str_size, num_files) = get_size(rootDir)
+        str_summary = rootDir + '(' + str(num_files) + 'files)(' + str_size + ')/'
+        print_summary(fid, str_summary)  
     for lists in os.listdir(rootDir): 
         path = os.path.join(rootDir, lists)          
         (str_size, num_files) = get_size(path)
